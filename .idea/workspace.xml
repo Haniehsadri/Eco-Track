@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8b7bcd0e-a014-496e-b92a-164232ac82b8" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1bRJ15qPwldz1XWx0ghPQK4WWlT" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RunManager">
+    <configuration name="CarbonfootprinTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CarbonfootprinTest" />
+      <module name="tamrin 5" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.CarbonfootprinTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8b7bcd0e-a014-496e-b92a-164232ac82b8" name="Default Changelist" comment="" />
+      <created>1588588754351</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588588754351</updated>
+      <workItem from="1588588758199" duration="2946000" />
+      <workItem from="1588687871122" duration="596000" />
+      <workItem from="1588697319283" duration="573000" />
+      <workItem from="1588699270969" duration="1101000" />
+      <workItem from="1588720539617" duration="54000" />
+      <workItem from="1588762724342" duration="1085000" />
+      <workItem from="1588765206227" duration="601000" />
+      <workItem from="1588771251918" duration="1787000" />
+      <workItem from="1588773079273" duration="1784000" />
+      <workItem from="1588774993799" duration="1267000" />
+      <workItem from="1588777533901" duration="1649000" />
+      <workItem from="1588782017404" duration="2051000" />
+      <workItem from="1588784226204" duration="1787000" />
+      <workItem from="1588786045571" duration="917000" />
+      <workItem from="1588788899063" duration="197000" />
+      <workItem from="1588794773001" duration="226000" />
+      <workItem from="1588795292402" duration="115000" />
+      <workItem from="1588796356592" duration="65000" />
+      <workItem from="1588848401159" duration="14000" />
+      <workItem from="1589127403848" duration="99000" />
+      <workItem from="1589128570454" duration="896000" />
+      <workItem from="1589129558789" duration="27000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1588795368722">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.680@0.0.1280.680" timestamp="1588795368722" />
+    <state x="446" y="50" key="#com.intellij.ide.util.MemberChooser" timestamp="1588773708267">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="446" y="50" key="#com.intellij.ide.util.MemberChooser/0.0.1280.680@0.0.1280.680" timestamp="1588773708267" />
+    <state width="1281" height="170" key="GridCell.Tab.0.bottom" timestamp="1589127503314">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1281" height="170" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1589127503314" />
+    <state width="1281" height="170" key="GridCell.Tab.0.center" timestamp="1589127503313">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1281" height="170" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1589127503313" />
+    <state width="1281" height="170" key="GridCell.Tab.0.left" timestamp="1589127503313">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1281" height="170" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1589127503313" />
+    <state width="1281" height="170" key="GridCell.Tab.0.right" timestamp="1589127503313">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1281" height="170" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1589127503313" />
+    <state x="349" y="169" key="com.intellij.ide.util.TipDialog" timestamp="1589129562464">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="349" y="169" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1589129562464" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Car.java</url>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
